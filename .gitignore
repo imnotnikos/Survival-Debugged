@@ -1,0 +1,23 @@
+# Compiled Java class files
+*.class
+
+# Maven build directory
+target/
+
+# Eclipse IDE specific files
+.classpath
+.project
+.settings/
+.metadata/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
