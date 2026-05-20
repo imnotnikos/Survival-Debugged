@@ -1,0 +1,11 @@
+name: CustomDebugStick
+version: 1.0.0
+main: com.imNikos.debugstick.SurvivalDebugStickPlugin
+api-version: '1.21'
+commands:
+  sdebug:
+    description: Spawns the custom survival debug stick
+    permission: customdebugstick.give
+  debugstick:
+    description: Spawns the custom survival debug stick
+    permission: customdebugstick.give
