@@ -1,5 +1,9 @@
+<p align="center"><img src="assets/social-preview.png" alt="Survival Debugged banner" width="100%"></p>
+
 # Survival Debugged
 **Survival Debugged** is a lightweight Bukkit, Paper, and Spigot plugin that brings the power of Minecraft's debug stick to players in survival. Designed for builders and server administrators, this plugin allows users to seamlessly edit the physical properties of blocks—such as rotation, shape, half-states, and open/closed statuses—without needing native Creative mode access or operator permissions.
+
+<img src="assets/icon.png" width="250" height="250" alt="Survival Debugged icon" />
 
 ***
 ### Plugin made by imNikos.
