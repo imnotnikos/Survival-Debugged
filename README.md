@@ -41,6 +41,11 @@ Equipped with the custom debug stick, players can  interact with any block that 
 
 **Simple Commands:** Server administrators can grant the item using the /sdebug or /debugstick commands (requires the customdebugstick.give permission).
 
+## Requirements
+
+* **v1.1.0+:** Paper **26.2 or 26.3**, running on Java 25.
+* **v1.0.0:** Paper 1.21.x, running on Java 21.
+
 ## Download & Installation
 
 * Navigate to the **Releases** tab on the right side of this GitHub repository.
