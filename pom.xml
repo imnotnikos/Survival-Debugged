@@ -5,7 +5,7 @@
   
   <groupId>com.imNikos</groupId>
   <artifactId>CustomDebugStick</artifactId>
-  <version>1.0.0</version>
+  <version>1.1.0</version>
   
   <properties>
     <maven.compiler.source>21</maven.compiler.source>
@@ -24,7 +24,7 @@
     <dependency>
         <groupId>io.papermc.paper</groupId>
         <artifactId>paper-api</artifactId>
-        <version>1.21.11-R0.1-SNAPSHOT</version>
+        <version>26.2.build.135-stable</version>
         <scope>provided</scope>
     </dependency>
   </dependencies>
